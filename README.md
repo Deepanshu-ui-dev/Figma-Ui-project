@@ -1,2 +1,10 @@
-# Figma-Ui-project
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FuzZFrGWmnvz9h5IAQNqOkE%2FUntitled%3Fpage-id%3D17%253A2%26node-id%3D30-1361%26node-type%3DFRAME%26m%3Ddev%26scaling%3Dscale-down%26content-scaling%3Dfixed%26starting-point-node-id%3D118%253A12%26t%3Dp5TahjEPJkHv7N93-1" allowfullscreen></iframe>
+# UI/UX Design Projects
+
+This repository contains various UI/UX design projects created in Figma, showcasing different web and app interface designs. 
+
+## Projects Included:
+1. **YouTube Clone**: A UI design project for a YouTube-like video platform with modern and intuitive interface elements.
+2. **Digital Agency Website**: A sleek and responsive website design for a digital agency, focusing on user experience and branding.
+
+Stay tuned for more designs!
+
